@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Viacheslau-B
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Chill out
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...agap18@list.ru

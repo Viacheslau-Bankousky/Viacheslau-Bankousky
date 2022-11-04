@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Viacheslau
-- 👀 I’m interested in self-development
+- 👀 I’m interested in self-development and improvement of my professional qualities
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: agap18@list.ru
 
 <!---

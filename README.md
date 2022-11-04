@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Viacheslau-B
-- 👀 I’m interested in ...Chill out
-- 🌱 I’m currently learning ...Python
+- 👋 Hi, I’m @Viacheslau
+- 👀 I’m interested in self-development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...agap18@list.ru
+- 📫 How to reach me: agap18@list.ru
 
 <!---
 Viacheslau-Bankousky/Viacheslau-Bankousky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
